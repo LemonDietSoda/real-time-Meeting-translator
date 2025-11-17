@@ -1,0 +1,7 @@
+{
+  "name": "Real-time Meeting Translator",
+  "description": "A web application that listens to a meeting in Traditional Chinese and provides real-time English subtitles using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
